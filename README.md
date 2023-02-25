@@ -65,7 +65,8 @@ Since not many banks provide automated payroll, this can give BMO Financial grou
 
 BMO will need a software where businesses can access and input their payroll and accounting information. In addition it will need a dedicated team for accounting management to provide tailored services to these small to medium businesses. They can act as advisor as well for accounting needs.
 
-![BMO](https://user-images.githubusercontent.com/125223297/221381409-2c116e13-6986-4b50-97c9-d273d2b482db.png)
+![BMO](BMO.jpg)
+
 
 
 

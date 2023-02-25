@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
->"**Bank of Montreal**"
+**Bank of Montreal**
 
 *BMO was incorporated in 1822.*
 
@@ -43,6 +43,29 @@ Over the last 5 to 10 years, the wealth management domain of the financial indus
 Other major companies of the banking domain of the financial industry includes TD Banks, Capital One and Bank of America.
 
 Other major companies  of the wealth management domain of the financial industry includes TD wealth management, RBC wealth management, CIBI wealth management and National Bank wealth management.
+
+## Results
+
+The Impact of BMO financial group includes, helping its clients to achieve significant growth, increased efficiency, and cost savings. They provided business with innovative solutions and services that improved operational performance, increased customer satisfaction and loyalty and generated new revenue streams.
+
+BMO uses the following metrics to measure success in the banking and wealth management domain of the financial industry:
+Customer satisfaction: Using customers survey’s to analyze customer feedback. BMO has shown an upwards trend customer satisfaction over the past several years. 
+
+>“BMO Financial Group today announced that it has received the highest customer satisfaction ranking in retail banking advice, in the J.D. Power 2022 Canada Retail Banking Advice Satisfaction Study, reclaiming the top spot amongst Canada's largest banks. The study analyzes direct feedback from thousands of retail bank customers across Canada.”
+
+Financial Performance: BMO looks at key indicator suck as profits, revenue, growth, operating efficiencies. BMO has seen consistent growth in this area over the past few years seen in their 2022 annual reports to shareholders.
+
+BMO financial group is performing really well in comparison to its competitors in banking and wealth Management. It is ranked the top 10 banks in north America  and offers a comprehensive  suite of banking and wealth management products and services that meet the needs of their clients.
+
+## Recommendations
+
+I will advise BMO to offer accounting services and products tailored to medium and small businesses. These services would include automated payroll and accounting management services. This will provide an additional source of income for BMO and as well give the businesses access to personalized automated payroll and accounting management option.
+
+Since not many banks provide automated payroll, this can give BMO Financial group leverage compared to other competitors. Instead of them going elsewhere to source accounting and payroll needs, they can go to BMO. BMO can act as a one stop for all their financial business needs. With providing financial services, it can provide tailored automated payroll options to businesses and as well provide accounting management options to businesses.
+
+BMO will need a software where businesses can access and input their payroll and accounting information. In addition it will need a dedicated team for accounting management to provide tailored services to these small to medium businesses. They can act as advisor as well for accounting needs.
+
+![BMO](https://user-images.githubusercontent.com/125223297/221381409-2c116e13-6986-4b50-97c9-d273d2b482db.png)
 
 
 
